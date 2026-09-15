@@ -1,0 +1,7 @@
+/* Customizações leves sem sobrescrever as regras do Bootstrap */
+#bracket-container {
+    min-height: 500px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    padding: 20px;
+}
